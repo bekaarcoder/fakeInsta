@@ -1,0 +1,20 @@
+{
+  "name": "fake-insta",
+  "version": "1.0.0",
+  "description": "Image Editing application.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "image",
+    "photo"
+  ],
+  "author": "Shashank",
+  "license": "ISC",
+  "dependencies": {
+    "electron-screenshot": "^1.0.5",
+    "electron-screenshot-service": "^4.0.3",
+    "image-size": "^0.6.0"
+  }
+}
